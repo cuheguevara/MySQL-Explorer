@@ -1,0 +1,136 @@
+body {
+  color            : #000000;
+  margin-top      : 10px;
+  margin-left      : 10px;
+  margin-right     : 10px;
+  margin-bottom    : 10px;
+  padding          : 0px;
+  font-family		:Verdana, Arial, Helvetica, sans-serif;
+  font-size        : 11px;
+}
+
+td, tr, p, div {
+  font-family      : verdana, Helvetica, sans-serif;
+  font-size        : 11px;
+  color            : #333333;
+}
+.headNav{
+	color:#FFFFFF;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.headNavsc{
+	color:#000000;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+hr { 
+	color            : #999999;  
+	height           : 1px;  
+	width            : 100%;
+}
+
+.adminUSER { font-size:11px; color:#0066FF; text-decoration:none; font-weight : bold; }
+.adminUSER a:link{ font-size:11px; color:#0066FF; text-decoration:none; font-weight : bold; }
+.adminUSER a:hover{ font-size: 11px; color:#FF0000; text-decoration : none; font-weight: bold;}
+
+.whoEntry { font-size:11px; color:#FF0000; text-decoration:none; font-weight : bold; text-transform:uppercase;  }
+
+
+
+.globalNav{
+  font-size        : 11px;
+  color:#0000CC;
+  text-decoration  : none;
+  font-weight      :bold;
+  }
+
+a:link{
+  font-size        : 11px;
+  color:#0000CC;
+  text-decoration  : none;
+  font-weight      :bold;
+  }
+
+a:visited {
+  font-size        : 11px;
+  color:#0000CC;
+  text-decoration  : none;
+  font-weight      :bold;
+  }
+
+a:hover {
+  font-size        : 11px;
+  color:#FF0000;
+  text-decoration  : none;
+  font-weight      : none;
+}
+  
+.globalNav a:link{
+  font-size        : 11px;
+  color:#0000CC;
+  text-decoration  : none;
+  font-weight      :bold;
+  }
+
+.globalNav a:visited {
+  font-size        : 11px;
+  color:#0000CC;
+  text-decoration  : none;
+  font-weight      :bold;
+  }
+
+.globalNav a:hover {
+  font-size        : 11px;
+  color:#FF0000;
+  text-decoration  : none;
+  font-weight      : none;
+}
+
+.pageNAME{
+	color:#333333;
+	background-color:#FFFFFF;
+	font-weight:bold;
+	text-align:left;
+	text-transform:uppercase;
+	font-family:Arial, Helvetica, sans-serif;
+}  
+
+ul {float          : left;
+  margin           : 2px;
+  padding-left     : 10px;
+  list-style       : none;
+}
+li {
+  line-height      : 15px;
+  padding-left     : 15px;
+  padding-top      : 0px;
+  background-image :  url(../inspirate/images/bullet.png);
+  background-repeat: no-repeat;
+  background-position: 0px 3px;
+}
+
+
+th { border-bottom:solid 1px black; }
+/*input, select{background-color:#eeeeee;border:solid 1px #d0d0d0;}*/
+
+input{
+	background-color:#eeeeee;
+	border:solid 1px #d0d0d0;
+	font-family      : verdana, sans-serif;
+	font-weight      : none;
+	cursor:				hand;
+}
+select{
+	background-color:#eeeeee;
+	border:solid 1px #d0d0d0;
+	font-family      : verdana, sans-serif;
+	text-transform   : uppercase;
+	font-weight      : bold;
+	color      : blue;
+}
+textarea{
+	background-color:#eeeeee;
+	border:solid 1px #d0d0d0;
+	font-family      : verdana, sans-serif;
+	font-size:12px;
+}
